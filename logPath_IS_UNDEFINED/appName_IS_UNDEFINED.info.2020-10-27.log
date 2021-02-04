@@ -1,0 +1,5 @@
+[INFO ] 2020-10-27 16:06:35,490 io.ac.stream.CommandManagerImpl 253 - 停止了0个任务！
+[INFO ] 2020-10-27 16:06:35,491 o.s.o.j.LocalContainerEntityManagerFactoryBean 598 - Closing JPA EntityManagerFactory for persistence unit 'default'
+[INFO ] 2020-10-27 16:06:35,492 o.s.s.c.ThreadPoolTaskScheduler 218 - Shutting down ExecutorService 'taskScheduler'
+[INFO ] 2020-10-27 16:06:35,492 o.s.s.c.ThreadPoolTaskExecutor 218 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2020-10-27 16:06:35,495 c.alibaba.druid.pool.DruidDataSource 1825 - {dataSource-1} closed

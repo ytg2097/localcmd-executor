@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: stream-transcoding
+ac:
+  web:
+    cors:
+      enable: false
+server:
+  port: 9520

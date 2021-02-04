@@ -1,0 +1,3 @@
+[INFO ] 2021-01-25 13:13:30,422 o.s.s.c.ThreadPoolTaskScheduler 218 - Shutting down ExecutorService 'taskScheduler'
+[INFO ] 2021-01-25 13:13:30,426 o.s.s.c.ThreadPoolTaskExecutor 218 - Shutting down ExecutorService 'applicationTaskExecutor'
+[INFO ] 2021-01-25 13:13:30,428 io.ac.stream.CommandManagerImpl 253 - 停止了0个任务！
